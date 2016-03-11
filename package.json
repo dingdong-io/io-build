@@ -1,12 +1,23 @@
 {
   "name": "io-build"
-  , "author": "dingdong"
   , "version": "0.0.0"
-  , "main": "dist/main.js"
-  , "description": "主分支,加速自己开发node模块的构建工具;demo分支,新建模块的模板"
-  , "license": "MIT"
   , "repository": {
     "type": "git"
-    , "url": "https://github.com/dingdong-io/!!!!"
+    , "url": "https://github.com/dingdong-io/io-build"
   }
+  , "description": "主分支,加速自己开发node模块的构建工具;demo分支,新建模块的模板"
+  , "dependencies": {
+    "io-global": "*"
+  }
+  , "devDependencies": {
+    "gulp": "gulpjs/gulp#4.0"
+  }
+  , "main": "dist/main.js"
+  , "author": "dingdong"
+  , "license": "MIT"
+  , "bugs": {
+    "url": "https://github.com/dingdong-io/io-build/issues"
+  }
+  , "homepage": "https://github.com/dingdong-io/io-build#readme"
+  , "scripts": {}
 }
