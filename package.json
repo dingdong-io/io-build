@@ -1,0 +1,11 @@
+{
+  "name": "io-build"
+  , "author": "dingdong"
+  , "version": "0.0.0"
+  , "description": "主分支,加速自己开发node模块的构建工具;demo分支,新建模块的模板"
+  , "license": "MIT"
+  , "repository": {
+    "type": "git"
+    , "url": "https://github.com/dingdong-io/!!!!"
+  }
+}
